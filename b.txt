@@ -1,1 +1,2 @@
 entering first line in remo repo
+entering second line in local repo
